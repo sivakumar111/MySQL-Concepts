@@ -1,4 +1,4 @@
-# Structured MySQL Syllabus
+# Structured MySQL Syllabus Link: https://docs.google.com/document/d/1sxybtcdiAye06yHkeCARJ1PW1r7uILzl/edit?usp=drive_link&ouid=115637769985975014164&rtpof=true&sd=true
 1. Introduction to SQL
 2. SQL Commands Classification
 3. Database Queries
